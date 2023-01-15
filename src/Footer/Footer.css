@@ -1,0 +1,38 @@
+.footer {
+    color: white;
+    background-color: #000066;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .col1 h2 b{
+    color: white;
+    /* text: ; */
+  }
+
+  .col1 li{
+    color: white;
+  }
+
+  .col2 h2 b{
+    color: white;
+    /* text: ; */
+  }
+
+  .col2 li{
+    color: white;
+  }
+
+  .col-sm{
+    color: whitesmoke;
+  }
+  .hr{
+    width: 100%;
+  }
+
+  *>*{
+    /* color: whitesmoke; */
+    margin-bottom: 0px;
+  }
